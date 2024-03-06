@@ -41,5 +41,5 @@ python SendMessage.py
 To see the logs for queue creation and messages received by the Azure Function, view the logs in the docker compose application.
 
 ## Recommended Azure VS Code Extensions
-- [Azurite by Microsoft](vscode:extension/Azurite.azurite)
-- [Azure Tools by Microsoft](vscode:extension/ms-vscode.vscode-node-azure-pack)
+- [Azurite by Microsoft](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite)
+- [Azure Tools by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
